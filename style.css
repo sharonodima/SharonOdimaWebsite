@@ -9,12 +9,12 @@
 }
 
 hr {
-  width: 420px;
-	height: 32px;
-	border: none;
-  margin-top: 30px;
-  margin-bottom: 20px;
-	background-image: url("knot.jpg");
+  height: 4px;
+  background-color: white;
+  border: 2px solid black;
+      /* size style color */
+  margin-top: 80px;
+  margin-bottom: 80px;
 }
 
 p, li {
