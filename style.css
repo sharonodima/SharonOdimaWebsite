@@ -72,8 +72,15 @@ a:hover {
 	text-decoration: underline;	
 }
 
-img, iframe { 
+img, iframe {
   width: 100%;	
   border-radius: 8px;
   border: 1px solid #c5c0b8;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
