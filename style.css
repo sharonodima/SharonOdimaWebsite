@@ -19,14 +19,14 @@ hr {
 
 p, li {
  font-family: 'Papyrus';
- color: #ffcd05;
+ color: #FFCD05;
  line-height: 1.5em;
  margin-bottom: 0;
  font-size: 20px;
 }
   h1, h2, h3{
   font-family: 'Papyrus';
-	color: #ffcd05;
+	color: #FFCD05;
   text-align: center;
   font-weight:bolder;
   }
@@ -51,7 +51,7 @@ footer {
 }
 
 footer p {
-	color: #ffcd05;	
+	color: #FFCD05;	
 	text-align: center;
   padding: 30px;
   margin: 0;
@@ -59,7 +59,7 @@ footer p {
 
 header h2 {
 	font-family: 'Papyrus';
-	color: #ffcd05;
+	color: #FFCD05;
 	margin: 0px;
 	font-size: 18px;
 	text-align: center;
