@@ -72,8 +72,7 @@ a:hover {
 	text-decoration: underline;	
 }
 
-img, iframe {
-  width: 100%;	
+img, iframe {	
   border-radius: 8px;
   border: 1px solid #c5c0b8;
 }
