@@ -22,10 +22,19 @@ hr {
     display: inline-block;
 }
 
-p, li {
+p{
     font-family: 'Papyrus';
     color: #ffffff;
-    line-height: 1.5em;
+    line-height:5em;
+    margin-bottom: 0;
+    font-size: 20px;
+    text-align: center;
+}
+
+li {
+    font-family: 'Papyrus';
+    color: #ffffff;
+    line-height:2em;
     margin-bottom: 0;
     font-size: 20px;
     text-align: center;
@@ -42,7 +51,7 @@ h1, h2, h3{
 
 
 section {
-    padding: 0 10%;
+    padding: 1 30%;
     margin: 80px 0;
 }
 
